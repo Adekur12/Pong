@@ -1,0 +1,2 @@
+C:\Users\adeku\Pong\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\adeku\Pong\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
